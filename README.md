@@ -16,7 +16,7 @@ Setup and Run Instructions
 1. Clone or Download the Repository
 
    
-   git clone https://github.com/your-repo/UserManagement.git
+   git clone https://github.com/fathimasamee/UserManagement.git
    cd UserManagement
    
 
